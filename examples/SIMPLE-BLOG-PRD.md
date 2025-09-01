@@ -4,7 +4,6 @@
 - **Objetivo**: Sistema básico de blog com painel administrativo
 - **Tipo**: Sistema Full-stack Laravel
 - **Usuários-alvo**: Blogueiros individuais, pequenas empresas
-- **Tempo estimado**: 3-4 horas de implementação
 
 ## 2. Funcionalidades Core
 

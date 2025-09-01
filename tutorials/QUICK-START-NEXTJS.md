@@ -1,4 +1,4 @@
-# Quick Start: Next.js Dashboard (⏱️ 30 minutos)
+# Quick Start: Next.js Dashboard
 
 **Objetivo**: Criar um dashboard simples para aprender o fluxo completo Claude Code + TDD
 
@@ -153,9 +153,3 @@ ls -la .claude/commands/dev/
 npm install -D @playwright/test
 npx playwright install
 ```
-
----
-
-**⏱️ Tempo real: 25-35 minutos**
-**✅ Complexidade: Iniciante**
-**🎯 Ideal para: Primeira experiência com Claude Code**

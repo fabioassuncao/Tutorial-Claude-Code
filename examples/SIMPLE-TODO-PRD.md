@@ -4,7 +4,6 @@
 - **Objetivo**: App mobile básico para gerenciar tarefas pessoais
 - **Tipo**: Mobile App (iOS + Android)
 - **Usuários-alvo**: Usuários casuais, estudantes, profissionais básicos
-- **Tempo estimado**: 2-3 horas de implementação
 
 ## 2. Funcionalidades Core
 

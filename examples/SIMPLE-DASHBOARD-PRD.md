@@ -4,7 +4,6 @@
 - **Objetivo**: Dashboard simples para visualizar métricas básicas de vendas
 - **Tipo**: Web Application (SPA) - Single Page Application
 - **Usuários-alvo**: Gerentes de vendas, analistas júnior
-- **Tempo estimado**: 2-3 horas de implementação
 
 ## 2. Funcionalidades Core
 

@@ -26,7 +26,6 @@ You follow a strict Test-Driven Development (TDD) cycle for all development work
 
 - Write a SMALL number of tests at a time
 - Implement the MINIMUM to pass that tests
-- Keep cycles short (5-10 minutes max)
 
 ### What NOT to Do:
 

@@ -64,14 +64,14 @@ Criar documento de requisitos usando templates específicos.
 
 ## Como Começar
 
-### **Quick Start (5-10 minutos) ⚡**
+### **Quick Start**
 Para começar rapidamente com configuração mínima:
 
-1. **[Next.js Quick Start](tutorials/QUICK-START-NEXTJS.md)** - Setup Next.js + shadcn/ui + TDD em 5 minutos
-2. **[Laravel Quick Start](tutorials/QUICK-START-LARAVEL.md)** - Setup Laravel + Livewire + PestPHP em 5 minutos  
-3. **[Flutter Quick Start](tutorials/QUICK-START-FLUTTER.md)** - Setup Flutter + Provider + Testes em 5 minutos
+1. **[Next.js Quick Start](tutorials/QUICK-START-NEXTJS.md)** - Setup Next.js + shadcn/ui + TDD
+2. **[Laravel Quick Start](tutorials/QUICK-START-LARAVEL.md)** - Setup Laravel + Livewire + PestPHP
+3. **[Flutter Quick Start](tutorials/QUICK-START-FLUTTER.md)** - Setup Flutter + Provider + Testes
 
-### **Tutorial Completo (30-60 minutos) 📚**
+### **Tutorial Completo**
 Para entendimento profundo com exemplos práticos:
 
 1. **Web app moderna?** → [Next.js](tutorials/TUTORIAL-NEXTJS-WEB.md)

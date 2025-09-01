@@ -1,4 +1,4 @@
-# Quick Start: Laravel Blog System (⏱️ 45 minutos)
+# Quick Start: Laravel Blog System
 
 **Objetivo**: Criar blog completo com admin panel para aprender full-stack Laravel + TDD
 
@@ -246,9 +246,3 @@ php artisan filament:make-widget Stats   # Widget dashboard
 php artisan make:livewire HomePage        # Novo component
 php artisan livewire:make PostList       # Alternate syntax
 ```
-
----
-
-**⏱️ Tempo real: 40-50 minutos**
-**✅ Complexidade: Intermediário**  
-**🎯 Ideal para: Experiência full-stack completa**

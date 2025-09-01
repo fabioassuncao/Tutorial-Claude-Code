@@ -1,4 +1,4 @@
-# Quick Start: Flutter Todo App (⏱️ 40 minutos)
+# Quick Start: Flutter Todo App
 
 **Objetivo**: Criar app mobile completo para aprender desenvolvimento Flutter + TDD
 
@@ -332,9 +332,3 @@ todo_app/
 └── docs/
     └── PRD.md
 ```
-
----
-
-**⏱️ Tempo real: 35-45 minutos**
-**✅ Complexidade: Intermediário**
-**🎯 Ideal para: Primeira experiência mobile completa**

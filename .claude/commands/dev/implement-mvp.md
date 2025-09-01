@@ -51,7 +51,7 @@ The command will automatically read:
 
 ## Modern TDD Workflow with Design Integration
 
-### Phase 1: Design Analysis & Project Setup (5-10 minutes)
+### Phase 1: Design Analysis & Project Setup
 
 **1. Read ALL Design Specifications First**
 
@@ -144,7 +144,7 @@ Let the IMPLEMENTATION_PLAN.md guide setup, not predetermined patterns:
 
 **✅ VERIFY Phase**: Confirm test passes and app loads
 
-### Phase 2: UI Scaffolding with Playwright Testing (10-15 minutes)
+### Phase 2: UI Scaffolding with Playwright Testing
 
 **Testing Strategy for UI Components**
 
@@ -169,7 +169,7 @@ Create tests that verify the UI structure from design specs:
 - **Interactive Apps** (drag & drop, kanban, games): 100% Playwright with comprehensive interaction testing
 - **Data-Heavy Apps**: 100% Playwright (data validation and user workflows)
 
-### Phase 3: UI Implementation from Design (15-20 minutes)
+### Phase 3: UI Implementation from Design
 
 **🟢 GREEN Phase - Implement Components to Pass Tests**
 
@@ -194,7 +194,7 @@ Run the Playwright test suite:
 - All interaction tests should pass
 - Visual verification against wireframes
 
-### Phase 4: Feature Implementation with Progressive TDD (20-30 minutes)
+### Phase 4: Feature Implementation with Progressive TDD
 
 **Progressive Testing Strategy**
 
@@ -227,7 +227,7 @@ For EACH feature from `web-test-expert/test-plan.md`:
 - Get user confirmation before proceeding to next feature
 - Document any deviations from design (should be rare)
 
-### Phase 5: Integration & Production Readiness (10-15 minutes)
+### Phase 5: Integration & Production Readiness
 
 **Integration Testing**
 
